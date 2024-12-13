@@ -1,0 +1,1 @@
+{"name":"Local: Main","url":"d:\\OPP\\IOFILE\\src\\J05081\\Main.java","tests":[{"id":1723515138787,"input":"2\nAo phong tre em\nCai\n25000\n41000\nAo khoac nam\nCai\n240000\n515000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\OPP\\IOFILE\\src\\J05081\\Main.java","group":"local","local":true}
